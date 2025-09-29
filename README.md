@@ -12,7 +12,7 @@
   #### :raising_hand: I'm a AI Engineer from South Korea.<br/>
   #### :fire: I aim to become a Data or AI Engineer.<br/>
   #### :point_up: Major of Fintech, SungShin Women's University
-  #### :v: Secong Major of Internet of Things (IoT), SungShin Women's University
+  #### :v: Second Major of Internet of Things (IoT), SungShin Women's University
   <br/>
   <br/>
   
