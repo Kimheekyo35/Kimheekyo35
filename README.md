@@ -53,8 +53,6 @@
   <img src="https://img.shields.io/badge/AWS-F38020?style=huggingface&logo=AWS&logoColor=white"/>
 
   ### Interface
-  <!--Gradio-->
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
   <!--Streamlit-->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
@@ -82,6 +80,9 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <br/>
 
+  ### Interface
+  <!--Gradio-->
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
 
 
 
