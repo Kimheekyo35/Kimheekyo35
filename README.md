@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <!--markdown-->
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+  <!--Linux-->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  <!--JSON-->
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
 
   ### Library
   <!--Selenium-->
@@ -31,10 +35,12 @@
   <!--BeautifulSoup-->
   <img src="https://img.shields.io/badge/BeautifulSoup-033963?style=flat-square&logo=BeautifulSoup&logoColor=white"/>
   <!--scikit-learn-->
-  <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=scikitlearn&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <!--Pandas-->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=pandas&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
+  ### API
+  <img src="https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=figma&logoColor=white"/>
   
   ### FrameWork
   <!--Airflow-->
@@ -42,15 +48,19 @@
 
   ### PlatForm
   <!--HuggingFace-->
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=huggingface&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=huggingface&logo=huggingface&logoColor=black"/>
   <!--AWS-->
-  
+  <img src="https://img.shields.io/badge/AWS-F38020?style=huggingface&logo=AWS&logoColor=white"/>
 
   ### Interface
   <!--Gradio-->
   <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
   <!--Streamlit-->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+  ### Tool
+  <!--Figma-->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <br/>
 
 
@@ -75,10 +85,14 @@
 
 
 
+  ## GitHub Stats Card
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimheekyo35&show_icons=true&theme=radical)
 
 
+  ## Top Languages Card
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimheekyo35)](https://github.com/anuraghazra/github-readme-stats)
 
-
+  
 
 <!--
 **Kimheekyo35/Kimheekyo35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
